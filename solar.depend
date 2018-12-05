@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1544034385 source:/home/crack/Desktop/solar/main.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<GL/glut.h>
+	<IL/il.h>
+	<IL/ilut.h>
+	<IL/ilu.h>
+
